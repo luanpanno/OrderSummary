@@ -1,0 +1,16 @@
+/home/luanpanno/www/OrderSummary/bin/Debug/net5.0/OrderSummary
+/home/luanpanno/www/OrderSummary/bin/Debug/net5.0/OrderSummary.deps.json
+/home/luanpanno/www/OrderSummary/bin/Debug/net5.0/OrderSummary.runtimeconfig.json
+/home/luanpanno/www/OrderSummary/bin/Debug/net5.0/OrderSummary.runtimeconfig.dev.json
+/home/luanpanno/www/OrderSummary/bin/Debug/net5.0/OrderSummary.dll
+/home/luanpanno/www/OrderSummary/bin/Debug/net5.0/ref/OrderSummary.dll
+/home/luanpanno/www/OrderSummary/bin/Debug/net5.0/OrderSummary.pdb
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/OrderSummary.csproj.AssemblyReference.cache
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/OrderSummary.GeneratedMSBuildEditorConfig.editorconfig
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/OrderSummary.AssemblyInfoInputs.cache
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/OrderSummary.AssemblyInfo.cs
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/OrderSummary.csproj.CoreCompileInputs.cache
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/OrderSummary.dll
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/ref/OrderSummary.dll
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/OrderSummary.pdb
+/home/luanpanno/www/OrderSummary/obj/Debug/net5.0/OrderSummary.genruntimeconfig.cache
